@@ -1,1 +1,1 @@
-
+EAB_V1 contains the C++ EAB population dynamics model interacting with ADB. R code for the q parameter selection (Table S1) for the ADB compartmental model is provided. Results processing for the R code to process model output results and the summary statistics from these model runs.
